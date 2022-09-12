@@ -8,7 +8,8 @@ Without further ado, please complete the following (note, appropriate places for
 
 1. Preliminary:
 
-- fork this repository and connect to a directory on your local machine
+- create your own git repository
+- fork this repository and connect to your remote repo
 
 2. In the backend directory:
 
