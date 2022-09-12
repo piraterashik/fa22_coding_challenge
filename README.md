@@ -1,4 +1,6 @@
-Hey! Thanks for your interest in joining Hack4Impact BU! We require prospective impact team members to complete this coding challenge for two reasons: 1) So they have a basic understanding of some possible obstacles they will face when working on one of our partner’s projects and 2) to see if the Impact Team is currently the right place for you.
+Hey!
+
+Thanks for your interest in joining Hack4Impact BU! We require prospective impact team members to complete this coding challenge for two reasons: 1) So they have a basic understanding of some possible obstacles they will face when working on one of our partner’s projects and 2) to see if the Impact Team is currently the right place for you.
 
 As much as this is an examination to join the Impact Team, this in turn assesses your current abilities as well. If you find this challenge a bit too difficult or you would like to have more exposure to these technologies & those similar feel free to contact us at bostonuniversity@hack4impact.org and express interest in joining the Junior Development Team.
 
