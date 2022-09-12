@@ -4,11 +4,11 @@ As much as this is an examination to join the Impact Team, this in turn assesses
 
 Without further ado, please complete the following (note, appropriate places for these actions items to be completed will be denoted with comments in the code):
 
-Preliminary:
+1. Preliminary:
 
 - create a remote repository and connect to a directory on your machine
 
-1. In the backend directory:
+2. In the backend directory:
 
 - In your terminal run 'npm init -y; npm install nodemon -g; npm install cors mongoose express'
 
@@ -22,7 +22,7 @@ Preliminary:
 
 - Create PUT (update operation) & DELETE (delete operation) request routes
 
-2. In the frontend directory:
+3. In the frontend directory:
 
 - In your terminal run 'npm i axios'
 
@@ -32,4 +32,4 @@ Preliminary:
 
 - Create ‘CreateTask’ component (this should make a POST request, hence using the create operation already implemented in services/taskServices.js)
 
-Feel free to change the design if you’d like. Please send us a ZIP file of your code to our aforementioned email address within 1 week with the subject line of “F22 Coding Challenge - [insert your full name]”. We look forward to your submission!
+Please, provide us access (hack4impact-bu) when you are finished in order to review your repository. Feel free to change the design if you’d like or host it if you'd like (bonus points!). We look forward to your submission!
