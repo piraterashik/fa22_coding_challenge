@@ -8,13 +8,13 @@ Without further ado, please complete the following (note, appropriate places for
 
 1. Preliminary:
 
-- create a remote repository and connect to a directory on your machine
+- fork this repository and connect to a directory on your local machine
 
 2. In the backend directory:
 
 - In your terminal run 'npm init -y; npm install nodemon -g; npm install cors mongoose express'
 
-  NOTE: after this, you can run 'npx nodemon server' in the terminal to run the server when you please. nodemon allows us to run the server and concurrently update it by saving our 'backend' directory files.
+  NOTE: after this, you can run 'npx nodemon server' in the terminal to run the server when you please. nodemon allows us to run the server and concurrently update it when we save our' backend' directory files.
 
 - Initialize the Express app
 
