@@ -4,9 +4,13 @@ As much as this is an examination to join the Impact Team, this in turn assesses
 
 Without further ado, please complete the following (note, appropriate places for these actions items to be completed will be denoted with comments in the code):
 
+Preliminary:
+
+- create a remote repository and connect to a directory on your machine
+
 1. In the backend directory:
 
-- In your terminal run 'npm init -y; npm install -g nodemon; npm install express mongoose cors'
+- In your terminal run 'npm init -y; npm install nodemon -g; npm install cors mongoose express'
 
   NOTE: after this, you can run 'npx nodemon server' in the terminal to run the server when you please. nodemon allows us to run the server and concurrently update it by saving our 'backend' directory files.
 
