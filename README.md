@@ -15,7 +15,7 @@ Without further ado, please complete the following (note, appropriate places for
 
 - In your terminal run 'npm init -y; npm install nodemon -g; npm install cors mongoose express'
 
-  NOTE: after this, you can run 'npx nodemon server' in the terminal to run the server when you please. nodemon allows us to run the server and concurrently update it when we save our' backend' directory files.
+  NOTE: after this, you can run 'npx nodemon server' in the terminal to run the server when you please. nodemon allows us to run the server and concurrently update it when we save our 'backend' directory files.
 
 - Initialize the Express app
 
