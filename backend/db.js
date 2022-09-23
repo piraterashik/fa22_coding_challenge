@@ -7,7 +7,7 @@ module.exports = async () => {
     };
     await mongoose.connect(
       /* CREATE & CONNECT TO YOUR OWN MONGODB DATABASE */
-      "",
+      "mongodb://localhost/example",
       connectionParams,
     );
     console.log("Connected to MongoDB");
