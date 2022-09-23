@@ -12,3 +12,11 @@ export function addTask(task) {
 /* CREATE 'PUT' FUNCTIONS */
 
 /* CREATE 'DELETE' FUNCTIONS */
+
+function PUT(task) {
+  return axios.put(apiUrl , { task });
+}
+
+function DELETE(task) {
+  return axios.delete(apiUrl , { task });
+}
